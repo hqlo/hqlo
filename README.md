@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hqlo
 - 🌱 I’m currently learning Javascript, nodeJS
 - 📫 How to reach me:
-- My discord: Sprite#2739
+- My discord: hqlo#2739
 
 <!---
 hqlo/hqlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
